@@ -4,12 +4,14 @@ user experience in virtual assistants to monitoring mental health and improving 
 of users, thereby making interactions more natural and empathetic.
 
 Project Objectives:
+
 Develop a robust model capable of accurately identifying a variety of emotions from speech.
 Enhance feature extraction techniques to improve the model’s ability to distinguish between subtle emotional nuances.
 Test and validate the model's performance across different datasets to ensure generalizability.
 Integrate the model into potential real-world applications, such as call center analytics, mental health monitoring, and virtual assistants.
 
 Preprocessing Libraries and Tools:
+
 Librosa: A Python library for audio and music analysis, used extensively for tasks like loading audio files, noise reduction, and feature extraction.
 SciPy: For signal processing tasks, including filtering and normalization.
 Python: The primary programming language for implementing preprocessing scripts.
@@ -18,6 +20,7 @@ MATLAB: Sometimes used for advanced signal processing and feature extraction tas
 Scikit-learn: A Python library that provides simple and efficient tools for traditional machine learning algorithms like Support Vector Machines (SVM) and Random Forests.
 
 Model Evaluation Technologies:
+
 Matplotlib and Seaborn: Python libraries used for visualizing the performance of models, such as plotting confusion matrices and ROC curves.
 Scikit-learn Metrics: Provides tools for calculating accuracy, precision, recall, F1 score, and other evaluation metrics.
 
